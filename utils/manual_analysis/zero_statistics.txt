@@ -1,0 +1,19 @@
+zero_sys_voc:
+- good: 0
+- reasonable: 0
+- bad: 45
+
+zero_sys:
+- good: 0
+- reasonable: 0
+- bad: 45
+
+sys_treinado_zero_voc:
+- good: 8
+- reasonable: 13
+- bad: 24
+
+sys_zero_voc:
+- good: 25
+- reasonable: 16
+- bad: 4

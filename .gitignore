@@ -1,0 +1,5 @@
+**/__pycache__
+**/.ipynb_checkpoints
+/experiment_*
+/Real-Time-Voice-Cloning
+/train-deepspeech/DeepSpeech

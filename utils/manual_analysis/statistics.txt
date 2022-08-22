@@ -1,0 +1,54 @@
+padrão:
+- good: 47
+- * long: 0
+- * default: 47
+- reasonable: 23
+- * long: 1
+- * default: 22
+- bad: 20
+- * long: 2
+- * default: 18
+
+sys_voc_treinado:
+- good: 21
+- * long: 0
+- * default: 21
+- reasonable: 33
+- * long: 0
+- * default: 33
+- bad: 36
+- * long: 4
+- * default: 32
+
+sys_treinado:
+- good: 17
+- * long: 0
+- * default: 17
+- reasonable: 24
+- * long: 0
+- * default: 24
+- bad: 49
+- * long: 2
+- * default: 47
+
+sys_treinado_zero_voc:
+- good: 14
+- * long: 0
+- * default: 14
+- reasonable: 24
+- * long: 0
+- * default: 24
+- bad: 52
+- * long: 4
+- * default: 48
+
+sys_zero_voc:
+- good: 44
+- * long: 0
+- * default: 44
+- reasonable: 25
+- * long: 0
+- * default: 25
+- bad: 21
+- * long: 1
+- * default: 20
